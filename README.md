@@ -4,7 +4,7 @@ Timing of core-to-core synchronization ping-pong on NUMA and generic multi-core 
 # Requirements
 - Ubuntu 20.10 (or later)
 - g++-8
-- 
+
 # Build 
 ```
 cd src && make
